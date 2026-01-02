@@ -1,4 +1,4 @@
-# Oiii eu sou Kaio Henrique, desenvolvedor(a) web!
+# Oiii eu sou Kaio Henrique, desenvolvedor web!
 
 ## 🛠️ Minha Stack
 
@@ -13,5 +13,3 @@
 ## 📱 Conecte-se comigo
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/okaiohenrique_?igsh=NW1vbHY4cTZwb2Rx)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiohenriqueclemente@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kaio-henrique-)
